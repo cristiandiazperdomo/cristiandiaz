@@ -18,6 +18,6 @@ I like to play the guitar, exercise and read books.
 - [Contact-List](https://cristiandiazperdomo.github.io/Contact-List/)
 - [You Can See More Here](https://github.com/cristiandiazperdomo?tab=repositories)
 
-#### You cand find me in 
+#### You can find me in 
 - [Linkedin](https://www.linkedin.com/in/cristian-d%C3%ADaz-390971222/)
 - [Instagram](https://www.instagram.com/cristiandiaz51/?hl=es-la)
