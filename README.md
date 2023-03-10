@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React**
 
-- 📄 Know about my experiences [I've been studyng at Platzi and Jóvenes a Programar.](I've been studyng at Platzi and Jóvenes a Programar.)
+- 📄 Know about my experiences i studied at Platzi and Jóvenes a Programar.
 
 - ⚡ Fun fact **I like to play the guitar, exercise and read books.**
 
