@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Back-end with JS**
 
-- 👨‍💻 All of my projects are available at [Im focusing on make projects my portfolio is not available yet.](Im focusing on make projects my portfolio is not available yet.)
+- 👨‍💻 All of my projects are available at Im focusing on make projects my portfolio is not available yet.
 
 - 💬 Ask me about **React**
 
