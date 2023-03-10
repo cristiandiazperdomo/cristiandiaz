@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cristian Díaz</h1>
-<h3 align="center">I'm a programmer focused on front-end!</h3>
+<h3 align="center">I'm a programmer focused on front-end and learning about backend!</h3>
 
 - 🔭 I’m currently working on [Ración Melo](https://github.com/cristiandiazperdomo/RacionMelo)
 
