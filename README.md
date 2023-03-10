@@ -1,23 +1,26 @@
-# Hi, I'm Cristian Díaz :sparkles:
+<h1 align="center">Hi 👋, I'm Cristian Díaz</h1>
+<h3 align="center">I'm a programmer focused on front-end!</h3>
 
-I'm a programmer focused on front-end!
+- 🔭 I’m currently working on [Ración Melo](https://github.com/cristiandiazperdomo/RacionMelo)
 
-In 2021 I took a course at [Jóvenes a Programar](https://jovenesaprogramar.edu.uy/), where I learned many technologies such as HTML, CSS and JS. 
+- 🌱 I’m currently learning **Back-end with JS**
 
-Today's market is very competitive, so I needed to learn a lot of other things. For that I am a React apprentice. I made a project that you can see here [Weather-App](https://weather-53907.web.app/). I have projects where I made a small Back-End to E-commerce, Contablito and Contact-List.
+- 👨‍💻 All of my projects are available at [Im focusing on make projects my portfolio is not available yet.](Im focusing on make projects my portfolio is not available yet.)
 
-I am currently improving my Front-End skills. Building Projects with React and my ENGLISH level is B2.
+- 💬 Ask me about **React**
 
-I like to play the guitar, exercise and read books.
+- 📄 Know about my experiences [I've been studyng at Platzi and Jóvenes a Programar.](I've been studyng at Platzi and Jóvenes a Programar.)
 
-#### if you want to see some highlights proyects.
+- ⚡ Fun fact **I like to play the guitar, exercise and read books.**
 
-- [Weather-App](https://weather-53907.web.app/)
-- [E-commerce](https://cristiandiazperdomo.github.io/E-commerce/)
-- [Contablito](https://cristiandiazperdomo.github.io/Contablito/)
-- [Contact-List](https://cristiandiazperdomo.github.io/Contact-List/)
-- [You Can See More Here](https://github.com/cristiandiazperdomo?tab=repositories)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/cristian díaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristian díaz" height="30" width="40" /></a>
+</p>
 
-#### You can find me in 
-- [Linkedin](https://www.linkedin.com/in/cristian-d%C3%ADaz-390971222/)
-- [Instagram](https://www.instagram.com/cristiandiaz51/?hl=es-la)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristiandiazperdomo&show_icons=true&locale=en&layout=compact" alt="cristiandiazperdomo" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cristiandiazperdomo&show_icons=true&locale=en" alt="cristiandiazperdomo" /></p>
