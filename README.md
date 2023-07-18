@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Ración Melo](https://github.com/cristiandiazperdomo/RacionMelo)
 
-- 🌱 I’m currently learning **Back-end with JS**
+- 🌱 I’m currently learning **Back-end with JAVA**
 
 - 👨‍💻 All of my projects are available at Im focusing on make projects my portfolio is not available yet.
 
