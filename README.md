@@ -1,17 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cristian Díaz</h1>
-<h3 align="center">I'm a programmer focused on front-end and learning about backend!</h3>
+<h3 align="center">I'm a fullstack programmer</h3>
 
-- 🔭 I’m currently working on [Ración Melo](https://github.com/cristiandiazperdomo/RacionMelo)
-
-- 🌱 I’m currently learning **Back-end with JAVA**
-
-- 👨‍💻 All of my projects are available at Im focusing on make projects my portfolio is not available yet.
-
-- 💬 Ask me about **React**
-
-- 📄 Know about my experiences i studied at Platzi and Jóvenes a Programar.
-
-- ⚡ Fun fact **I like to play the guitar, exercise and read books.**
+- 🔭 I’m currently working on my own project called Quizopia
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
